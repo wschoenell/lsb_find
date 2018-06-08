@@ -1,0 +1,15 @@
+*.pyc
+*.pyo
+.DS_Store
+.settings/
+*.profile
+*.hdf5
+.idea/
+.project
+.pydevproject
+.externalToolBuilders/
+build/
+.owncloudsync.log
+backup/
+tests/
+lsb_check.db
